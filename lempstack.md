@@ -54,14 +54,12 @@ index index.php index.html index.htm;
 - Access via http://your_server_ip/app_name
 - Manage databases in phpMyAdmin
 
-
-
-![image](https://github.com/kennyanju/lempstack/assets/10983149/0b354ac8-eac5-4086-9fc9-48f3922ea0ee)
  
 ### Change PEM file permission
 ```bash
 chmod 400 /Users/sadiqadeyanju/Downloads/dareiolempstack.pem
 ```
+<img width="880" alt="Screenshot 2023-11-06 at 20 15 53" src="https://github.com/kennyanju/lempstack/assets/10983149/da090d65-e3ce-429a-8459-e29130144923">
 
 
 ![image](https://github.com/kennyanju/lempstack/assets/10983149/a22e7071-6e8b-49c3-a689-7cac96c334ae)
